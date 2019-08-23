@@ -6,7 +6,7 @@ namespace p2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("HOLA TEC");
         }
     }
 }
